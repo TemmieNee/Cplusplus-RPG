@@ -26,7 +26,7 @@ Stappen plan:
 20. video maken hiervan!
  (Lijst word geupdate als ik onderzoek doe)
  ------------------------------------------------------------------------------------------
- ##Opdracht 2
+ ## Opdracht 2
  Alle variabelen die nodig zijn
  
  _Name = std::tring
@@ -38,7 +38,7 @@ Stappen plan:
  _AvererageScore = int
  (Variabelen word geupdate als er andere variabelen nodig zijn
  ------------------------------------------------------------------------------------------
- ##Opdracht 3
+ ## Opdracht 3
  Alle vuncties die nodig zijn
  
  _Name(std::string aName) = Player
