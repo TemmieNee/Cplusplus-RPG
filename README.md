@@ -29,14 +29,14 @@ Stappen plan:
  ## Opdracht 2
  Alle variabelen die nodig zijn
  
- _Name = std::tring
- _Unique_ID = int
- _Age = int
- _Level = int
- _Heroname = std::tring
+ _Name = std::tring  
+ _Unique_ID = int  
+ _Age = int  
+ _Level = int  
+ _Heroname = std::tring  
  _Weapon = std::string
- _AvererageScore = int
- (Variabelen word geupdate als er andere variabelen nodig zijn
+ _AvererageScore = int  
+ (Variabelen word geupdate als er andere variabelen nodig zijn)
  ------------------------------------------------------------------------------------------
  ## Opdracht 3
  Alle vuncties die nodig zijn
